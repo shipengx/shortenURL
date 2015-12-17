@@ -1,0 +1,14 @@
+*.txt
+*.class
+*.bin
+*.o
+*.so
+*.zip
+*.rar
+*.tar
+*.log
+*.sql
+*.dll
+*.exe
+*.jar
+*.dmg
